@@ -1,5 +1,5 @@
-//Integrante 1: Angelo González 
-//Integrante 2: Moisés Jiménez
+//Integrante 1: Angelo 
+//Integrante 2: Moisés 
 //Profesor(a): Jorge Cornejo 
 //Sección: 301
 //Compilador utilizado: onlinegdb
